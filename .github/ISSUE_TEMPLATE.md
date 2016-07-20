@@ -1,3 +1,5 @@
+Thank you for giving us your feedback! We listed some guidelines to help you:
+
 If possible, open separate issues for each feature request, or bug report. Avoid grouping feature requests, or bugs that are unrelated.
 
 ## Bug Report
@@ -23,5 +25,4 @@ Provide, if possible, your username and the URL of the concerned book.
 
 ----
 
-Thank you,
 The GitBook Team
