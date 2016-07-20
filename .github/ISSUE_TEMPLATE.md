@@ -1,6 +1,6 @@
-### Do you want to request a feature or report a bug?
+If possible, open separate issues for each feature request, or bug report. Avoid grouping feature requests, or bugs that are unrelated.
 
-Open separated issues for each of your bugs/feature requests, please avoid grouping these propositions into one issue.
+## Bug Report
 
 ### What is the current behavior?
 
@@ -8,13 +8,18 @@ If the current behavior is a bug, please provide the steps to reproduce.
 
 ### What is the expected behavior?
 
-#### GitBook Editor
+How do you think, or how would you like it should behave.
 
-If the feedback concerns the GitBook Editor, Which version and which browser / OS are affected by this issue? Did this work in previous versions? Specify if you're using the web or desktop editor.
+#### For GitBook Editor
 
-#### GitBook.com
+- Operating System?
+- (Web) Browser version?
+- (Desktop) Editor version?
+- Was the bug present in previous versions?
 
-What is your username? What is the url of the concerned book?
+#### For GitBook.com
+
+Provide, if possible, your username and the URL of the concerned book.
 
 ----
 
