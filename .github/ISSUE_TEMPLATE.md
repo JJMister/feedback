@@ -1,33 +1,35 @@
-<!-- Thank you for giving us your feedback! To make it easier for us to treat your feedback, here is a template you can fill out.
-If possible, open separate issues for each feature request, or bug report. Avoid grouping feature requests, or bugs that are unrelated. -->
+<!-- To make it easier for us to treat your feedback, -->
+<!-- we have made a template you can fill out.        -->
+
+<!-- Please make separate posts for each feature      -->
+<!-- request, or bug report.                          -->
 
 ## Category
 
-<!-- Is it a bug report, or a feature request? Does it concern GitBook.com, the GitBook Editor, something else? -->
+<!-- Is it a bug, or a feature request?               -->
+<!-- Does it concern GitBook.com, the Editor, etc. ?  -->
 
 ## What is the current behavior?
 
-<!-- If the current behavior is a bug, please write the steps to reproduce below. -->
+<!-- Provide the steps to reproduce the bug.          -->
 
 ## What is the desired behavior?
 
-<!-- Describe the way you think it should behave behave below -->
+<!-- Describe the way it should behave behave.        -->
 
 ## Additional information
 
-<!-- For the GitBook Editor, it will help to provide the following information:
-    - What Operating System are you using?
-    - (Web) What is you browser version?
-    - (Desktop) What is the version of the Editor you are using?
-    - Was the bug present in previous versions? -->
+<!-- For the GitBook Editor:                          -->
+<!--   - Operating System                             -->
+<!--   - (Web) Browser version                        -->
+<!--   - (Desktop) Version of the Editor              -->
 
-<!-- For GitBook.com, provide if possible your username and the URL of the concerned book. -->
+<!-- For GitBook.com:                                 -->
+<!--   - Your username                                -->
+<!--   - When possible, the URL of the book           -->
 
 
 
-<!--
-    Thank you!
 
-    --
-    The GitBook Team
--->
+<!--     Thank you for giving us your feedback!       -->
+<!--              The GitBook Team                    -->
